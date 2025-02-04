@@ -5,7 +5,7 @@
     "type": "Sword",
     "damage": 85,
     "isLegendary": true,
-    "imageUrl": "https://example.com/arondight.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/arondight.webp"
   },
   {
     "id": 102,
@@ -13,7 +13,7 @@
     "type": "Sword",
     "damage": 95,
     "isLegendary": true,
-    "imageUrl": "https://example.com/excalibur.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/excalibur.webp"
   },
   {
     "id": 103,
@@ -21,7 +21,7 @@
     "type": "Sword",
     "damage": 80,
     "isLegendary": false,
-    "imageUrl": "https://example.com/galatine.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/galatine.webp"
   },
   {
     "id": 104,
@@ -29,7 +29,7 @@
     "type": "Shield",
     "defense": 90,
     "isLegendary": true,
-    "imageUrl": "https://example.com/grail_shield.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/grailshield.webp"
   },
   {
     "id": 105,
@@ -37,7 +37,7 @@
     "type": "Sword",
     "damage": 90,
     "isLegendary": true,
-    "imageUrl": "https://example.com/holy_sword.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/holysword.webp"
   },
   {
     "id": 106,
@@ -45,7 +45,7 @@
     "type": "Sword",
     "damage": 78,
     "isLegendary": false,
-    "imageUrl": "https://example.com/ivory_blade.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/ivory.webp"
   },
   {
     "id": 107,
@@ -53,7 +53,7 @@
     "type": "Shield",
     "defense": 88,
     "isLegendary": false,
-    "imageUrl": "https://example.com/ocean_shield.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/oceanshield.webp"
   },
   {
     "id": 108,
@@ -61,7 +61,7 @@
     "type": "Dagger",
     "damage": 70,
     "isLegendary": false,
-    "imageUrl": "https://example.com/shadow_dagger.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/shadowdagger.webp"
   },
   {
     "id": 109,
@@ -69,7 +69,7 @@
     "type": "Spear",
     "damage": 75,
     "isLegendary": false,
-    "imageUrl": "https://example.com/guardian_spear.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/guardian.webp"
   },
   {
     "id": 110,
@@ -77,6 +77,6 @@
     "type": "Sword",
     "damage": 85,
     "isLegendary": false,
-    "imageUrl": "https://example.com/flaming_sword.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/Lordlexor/lancelot/refs/heads/main/weapons/flamesword.webp"
   }
 ]
