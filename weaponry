@@ -1,0 +1,82 @@
+[
+  {
+    "id": 101,
+    "name": "Arondight",
+    "type": "Sword",
+    "damage": 85,
+    "isLegendary": true,
+    "imageUrl": "https://example.com/arondight.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Excalibur",
+    "type": "Sword",
+    "damage": 95,
+    "isLegendary": true,
+    "imageUrl": "https://example.com/excalibur.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Galatine",
+    "type": "Sword",
+    "damage": 80,
+    "isLegendary": false,
+    "imageUrl": "https://example.com/galatine.jpg"
+  },
+  {
+    "id": 104,
+    "name": "The Grail Shield",
+    "type": "Shield",
+    "defense": 90,
+    "isLegendary": true,
+    "imageUrl": "https://example.com/grail_shield.jpg"
+  },
+  {
+    "id": 105,
+    "name": "The Holy Sword",
+    "type": "Sword",
+    "damage": 90,
+    "isLegendary": true,
+    "imageUrl": "https://example.com/holy_sword.jpg"
+  },
+  {
+    "id": 106,
+    "name": "The Ivory Blade",
+    "type": "Sword",
+    "damage": 78,
+    "isLegendary": false,
+    "imageUrl": "https://example.com/ivory_blade.jpg"
+  },
+  {
+    "id": 107,
+    "name": "The Ocean Shield",
+    "type": "Shield",
+    "defense": 88,
+    "isLegendary": false,
+    "imageUrl": "https://example.com/ocean_shield.jpg"
+  },
+  {
+    "id": 108,
+    "name": "The Shadow Dagger",
+    "type": "Dagger",
+    "damage": 70,
+    "isLegendary": false,
+    "imageUrl": "https://example.com/shadow_dagger.jpg"
+  },
+  {
+    "id": 109,
+    "name": "The Guardian Spear",
+    "type": "Spear",
+    "damage": 75,
+    "isLegendary": false,
+    "imageUrl": "https://example.com/guardian_spear.jpg"
+  },
+  {
+    "id": 110,
+    "name": "The Flaming Sword",
+    "type": "Sword",
+    "damage": 85,
+    "isLegendary": false,
+    "imageUrl": "https://example.com/flaming_sword.jpg"
+  }
+]
